@@ -1,7 +1,7 @@
 # Luxbar_Sample
 Navigation Sample with Luxbar
 
-Luxbarは、CSS のみで実装された軽量ナビゲーションバーで、MITライセンスで配布されています。
+Luxbarは、CSS のみで実装されたレスポンシブな軽量ナビゲーションバーで、MITライセンスで配布されています。
 * CODE：https://github.com/balzss/luxbar
 
 組み込むのは CSSだけでとても簡単です。以下、実装したサンプルです。
